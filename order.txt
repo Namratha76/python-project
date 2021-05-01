@@ -1,0 +1,4 @@
+---------order summary---------
+MSRP of the car : 27000
+Total price with 25% discout = $20250.0
+Subtotal with(4%) tax =21060.0
